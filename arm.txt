@@ -1,0 +1,3 @@
+การสร้าง story ใน redmine
+1. กด new project ปกติ 
+2. สร้าง sprint ใน backlogs โดยเข้าไปที่  setting เท่านั้นแหละ
